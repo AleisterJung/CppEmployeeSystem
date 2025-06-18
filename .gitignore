@@ -1,0 +1,16 @@
+# 编译目录
+/build
+/bin
+/obj
+
+ 
+ 
+
+# CMake 生成文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 配置文件或密码不要上传
+config.json
