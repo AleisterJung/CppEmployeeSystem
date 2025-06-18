@@ -22,7 +22,7 @@
 1. 克隆项目：
 
 ```bash
-git clone https://github.com/你的用户名/CppEmployeeSystem.git
+git clone https://github.com/aleisterjung/CppEmployeeSystem.git
 cd CppEmployeeSystem
 
     创建构建目录并编译：
